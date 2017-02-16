@@ -1,2 +1,8 @@
 # archi_sg
-archive for Architecture_study_group
+##概要
+アーキテクチャ勉強会参加者の便宜を図るために作成されました。
+
+##使い方
+日付でフォルダを作成して下さい。<br>
+rec.mdというファイル名で設定して下さい。
+
